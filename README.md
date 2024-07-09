@@ -19,3 +19,6 @@ Just my list of most used commands.
 #### My recommendations:
 I recommend creating your session, renaming it to something you prefer and saving the session under that name.
 Then, I'd recommend creating an alias in your .bashrc, .zshrc or powershell profile with that name that fires the `tmux a -t <session name>` command to instantly always open that session.
+
+
+![image](https://github.com/mikkurogue/tmux.config/assets/5637842/7f0413cb-4530-4496-b025-9ebbb0c04e7d)
